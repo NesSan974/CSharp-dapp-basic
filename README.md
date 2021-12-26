@@ -1,10 +1,7 @@
-# Premier essai de dapp avec CSharp
-
-## Smart Contract
+## Premier essai de dapp avec c#
+# Smart Contract
 Solidity, petit system de vote basic
-
-
-## CSharp
+# CSharp
 Nethereum
 http://docs.nethereum.com/en/latest/
 
