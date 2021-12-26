@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/quentin/Projet/csharp/dapp/dapp.csproj": {}
+  },
+  "projects": {
+    "/home/quentin/Projet/csharp/dapp/dapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/quentin/Projet/csharp/dapp/dapp.csproj",
+        "projectName": "dapp",
+        "projectPath": "/home/quentin/Projet/csharp/dapp/dapp.csproj",
+        "packagesPath": "/home/quentin/.nuget/packages/",
+        "outputPath": "/home/quentin/Projet/csharp/dapp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/quentin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Nethereum.Contracts": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Nethereum.Web3": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
