@@ -16,9 +16,10 @@ namespace dapp
         static void Main(string[] args)
         {
             string url = "HTTP://localhost:7545";
-            string address = "0x81e3eC0b87429025Db8a3cbFAaA6E9fE9bf09842";
 
-            string fileName = "solidity/build/contracts/Vote.json";
+            string address = "0x95c2735eDCF08B1BDd9661Ed86bDDC13532C54Fe"; //adress a modifier modifier
+
+            string fileName = "solidity/build/contracts/" + "Vote.json";
             string jsonString = File.ReadAllText(fileName);
 
             string ABI; 

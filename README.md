@@ -4,8 +4,11 @@
 mettre l'address dans un .env pour une plus simple réutilisation
 recuperation du .env dans le programme
 
+.env en JSON ? 
+
 ## L'utiliser
 
+lancer [Guanache](https://trufflesuite.com/docs/ganache/quickstart.html#1-install-ganache)
 
 ```bash
 cd solidity/
