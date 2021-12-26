@@ -2,7 +2,8 @@
 
 
 ## Smart Contract
-[Solidity](), petit system de vote basic
+[Solidity](https://docs.soliditylang.org/en/v0.8.11/), petit system de vote basic
+
 [Truffle](https://docs.soliditylang.org/en/v0.8.11/)
 
 ## CSharp
