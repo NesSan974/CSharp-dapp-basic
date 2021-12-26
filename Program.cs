@@ -9,9 +9,6 @@ using Nethereum.Web3;
 using System.Text.Json;
 
 
-///0x81e3eC0b87429025Db8a3cbFAaA6E9fE9bf09842
-
-
 namespace dapp
 {
     class Program

@@ -1,2 +1,4 @@
 bin/
 solidity/node_modules/
+.vscode/
+obj/
