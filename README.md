@@ -18,6 +18,11 @@ truffle migrate
 a partir de la il faut recupéré l'addresse du contrat
 puis le modifier dans [Progam.cs](./Program.cs)
 
+Lancer 
+```bash
+dotner run
+```
+
 
 ## Smart Contract
 [Solidity](https://docs.soliditylang.org/en/v0.8.11/), petit system de vote basic
