@@ -18,7 +18,7 @@ truffle migrate
 a partir de la il faut recupéré l'addresse du contrat  
 puis le modifier dans [Progam.cs](./Program.cs)  
 
-Lancer 
+Puis dans la racine du projet
 ```bash
 dotnet run
 ```
