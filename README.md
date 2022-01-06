@@ -20,7 +20,7 @@ puis le modifier dans [Progam.cs](./Program.cs)
 
 Lancer 
 ```bash
-dotner run
+dotnet run
 ```
 
 
